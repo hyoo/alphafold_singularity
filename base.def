@@ -1,0 +1,4 @@
+Bootstrap: docker
+From: nvcr.io/nvidia/tensorflow:21.06-tf2-py3
+
+# used 21.06 to meet cudnn==8.2.1.32 cudatoolkit==11.0.3
