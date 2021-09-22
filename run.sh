@@ -104,7 +104,7 @@ export XLA_PYTHON_CLIENT_MEM_FRACTION='4.0'
 
 # Path and user config (change me if required)
 bfd_database_path="$data_dir/bfd/bfd_metaclust_clu_complete_id30_c90_final_seq.sorted_opt"
-mgnify_database_path="$data_dir/mgnify/mgy_clusters.fa"
+mgnify_database_path="$data_dir/mgnify/mgy_clusters_2018_12.fa"
 template_mmcif_dir="$data_dir/pdb_mmcif/mmcif_files"
 obsolete_pdbs_path="$data_dir/pdb_mmcif/obsolete.dat"
 pdb70_database_path="$data_dir/pdb70/pdb70"
